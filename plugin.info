@@ -1,0 +1,4 @@
+plugin.description: This plugin adds the columns 'All Seeders' the torrents list.
+plugin.author: AkdM
+plugin.version: 1.0
+plugin.help: https://github.com/AkdM/rutorrent-all-seeders
